@@ -1,4 +1,4 @@
-![Image of the Octopus](https://dprice94.github.io/OctopusAssets@2x.png)
+<img src="https://dprice94.github.io/OctopusAssets@2x.png" alt="Octopus design" width="100px">
 
 # Octopus Animation
 

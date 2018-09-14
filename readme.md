@@ -1,5 +1,6 @@
-# Octopus Animation
+![Image of the Octopus](https://dprice.github.io/OctopusAssets@2x.png)
 
+# Octopus Animation
 
 Inspired by \@Vincents rad octopus. All code contained to index.html.
 

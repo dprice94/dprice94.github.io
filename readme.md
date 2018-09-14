@@ -1,4 +1,4 @@
-<img src="https://dprice94.github.io/OctopusAssets@2x.png" alt="Octopus design" width="100px">
+<img src="https://dprice94.github.io/OctopusAssets@2x.png" alt="Octopus design" width="300px">
 
 # Octopus Animation
 
